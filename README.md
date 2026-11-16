@@ -296,6 +296,9 @@ flutter build apk --release
 
 APK akan berada di `build/app/outputs/flutter-apk/app-release.apk`. Ukurannya akan jauh lebih kecil dibanding versi debug (biasanya 15-50 MB vs 100+ MB).
 
+#### 3.4.4 Github
+Buat repository github baru, lakukan push project ke github melalui terminal
+
 ### 3.5 CI/CD dengan GitHub Actions
 
 Di dunia kerja, kita jarang melakukan build manual di laptop sendiri. Kita menggunakan layanan otomatisasi seperti GitHub Actions.
